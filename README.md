@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Header Banner -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=%20HYEYOON JEONG%20&fontSize=30&fontAlign=50&fontAlignY=30"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"
   width="100%" />
 
 
