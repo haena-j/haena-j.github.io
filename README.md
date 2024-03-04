@@ -1,41 +1,16 @@
-# Website
+<div align="center">
+  <!-- Header Banner -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=%20HYEYOON JEONG%20&fontSize=30&fontAlign=50&fontAlignY=30"
+  width="100%" />
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+  <!-- GitHub Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=haena-j&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF"
+    width="94%" />
 
-```
-$ yarn
-```
+  <!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+</div>
